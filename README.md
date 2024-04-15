@@ -1,5 +1,10 @@
 ## Getting Started
-
+In the wallet tab, click snart Contrats.
+1 You’ll be connecting your Smart_contract by add samrtcontract and given name 
+ KT1WQPXQXrYrnmGxgMgEyHuJ31TeHYDbBUQc
+2 We will use the Temple wallet for this tutorial
+chrome-extension://ookjlbkiijinhpmnjffcofjonbfbgaoc/fullpage.html#/
+3 after open https://better-call.dev/
 This is a [Tezos](https://tezos.com/) voting dApp example project.
 
 To get started, first, run the development server:
